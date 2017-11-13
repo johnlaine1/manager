@@ -1,4 +1,4 @@
-package com.manager;
+package com.johnlaine.employeemanager;
 
 import com.facebook.react.ReactActivity;
 
